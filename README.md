@@ -1,4 +1,4 @@
-# A3C-Pytorch (Under development)
+# A3C (Under development)
 A clean and minimal implementation of A3C (Asynchronous Advantage Actor Critic) algorithm in Pytorch.
 
 ## Versions
