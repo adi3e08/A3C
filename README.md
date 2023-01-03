@@ -15,7 +15,7 @@ Continuous action space
 * [Cart Pole](https://www.gymlibrary.dev/environments/classic_control/cart_pole/) (Discrete version from OpenAI Gym) - Move back and forth to balance a pole on a cart.
 
 <p align="center">
-<img src="media/a3c_cartpole.png" width="40%"/>
+<img src="media/a3c_cartpole.png" width="38%"/>
 <img src="media/a3c_cartpole.gif" width="44%"/>
 </p>
 
